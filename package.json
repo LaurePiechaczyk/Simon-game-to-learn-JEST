@@ -1,0 +1,22 @@
+{
+  "name": "jason-game-jest",
+  "version": "1.0.0",
+  "description": "python3 -m http.server",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaurePiechaczyk/Jason-game-JEST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaurePiechaczyk/Jason-game-JEST/issues"
+  },
+  "homepage": "https://github.com/LaurePiechaczyk/Jason-game-JEST#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
